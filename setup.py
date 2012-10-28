@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='django-bootstrap-media',
-    version='0.2.0.4',
+    version='0.2.1.1',
     url='https://github.com/azizmb/django-bootstrap-media',
     author='Aziz M. Bookwala',
     author_email='aziz.mansur@gmail.com',
